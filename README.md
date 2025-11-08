@@ -34,6 +34,6 @@ wrk wrk -t12 -c400 -d30s http://127.0.0.1:8080
 # Some results
 
 ![nodejs-express](./imgs/nodejs-express.png)
-![java-tomcat-start](./imgs/java-tomcat.png)
+![java-tomcat-start](./imgs/java-tomcat-start.png)
 ![java-tomcat](./imgs/java-tomcat.png)
 ![java-webflux](./imgs/java-webflux.png)
